@@ -5,6 +5,10 @@ import numpy as np
 import pandas as pd
 from sklearn import datasets, linear_model
 
+
+
+
+
 data=pd.read_excel("Folds5x2_pp.xlsx")
 # print(data.head())
 # print(data.shape)
